@@ -11,6 +11,7 @@
     <mapping directory="$PROJECT_DIR$/../Códigos 2023/Git-Dio/community" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Códigos 2023/JavaDio/ContaBanco" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Códigos 2023/dio-javaBasico" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Meu role/Meu role/meurole" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../Programas/Banco em C" vcs="Git" />
   </component>

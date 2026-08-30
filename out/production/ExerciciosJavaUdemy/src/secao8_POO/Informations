@@ -1,7 +1,0 @@
-
-
-
-
-entities → classes que representam objetos (Produto, Funcionario, Conta, Retangulo...).
-utils → classes auxiliares com métodos estáticos (Calculator, CurrencyConverter, StringUtils...).
-
